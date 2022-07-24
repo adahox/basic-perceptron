@@ -3,7 +3,7 @@
 Aqui há um exemplo (muito básico) de como um perceptron funciona.
 Este exemplo aprende com o banco de dados  local (veja o arquivo [database.js](database.js)).
 
-Tudo isso foi criado com estudo de um canal do youtube [Universo Discreto](https://www.youtube.com/watch?v=tYXGzQs31Og&list=PL-t7zzWJWPtygNTsgC_M8c9a-p5biCjho)
+Tudo isso foi criado baseado no conhecimento adquirido de um canal do youtube [Universo Discreto](https://www.youtube.com/watch?v=tYXGzQs31Og&list=PL-t7zzWJWPtygNTsgC_M8c9a-p5biCjho) e pela leitura de alguns capítulos do livro [Deep Learning Book ](https://www.deeplearningbook.com.br/)
 
 
 ## Afinal, que este Perceptron faz?
